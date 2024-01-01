@@ -16,10 +16,10 @@ Hiya! I'm Trenton, a 26-year-old Native-American Filmmaker and Photographer with
 - 💡 **Art Meets Code**: Transforming creative visions into tangible projects through coding. Check out my projects
   - [ezsynth](https://github.com/Trentonom0r3/Ezsynth)
       - Ebsynth for Python.
+  - [PyShiftAE](https://github.com/Trentonom0r3/PyShiftAE)
+      - An After Effects Plugin exposing Python as a replacement for ExtendScript.
   - [After-Diffusion](https://github.com/Trentonom0r3/After-Diffusion)
       - Auto1111 Stable Diffusion in After Effects.
-  - [PyShiftAE](https://github.com/Trentonom0r3/PyShiftAE)
-      - A brand new, Python scripting library for After Effects. [WiP]
         
 ### My Goals
 
