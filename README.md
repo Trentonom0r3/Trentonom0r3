@@ -14,6 +14,8 @@ Hiya! I'm Trenton, a 26-year-old Native-American Filmmaker and Photographer with
 - 🎨 **Creative Problem Solving**: Leveraging my artistic skills and engineering mindset to develop innovative workflows.
 - 📚 **Learning Curve**: Amateur in Python, JavaScript, and getting my hands dirty with C/C++.
 - 💡 **Art Meets Code**: Transforming creative visions into tangible projects through coding. Check out my projects
+  - [AEvolution](https://github.com/Trentonom0r3/AEvolution)
+      - A brand new plugin for after effects providing a framework to write bindings to script in any language!
   - [ezsynth](https://github.com/Trentonom0r3/Ezsynth)
       - Ebsynth for Python.
   - [PyShiftAE](https://github.com/Trentonom0r3/PyShiftAE)
