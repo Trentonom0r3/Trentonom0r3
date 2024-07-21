@@ -23,8 +23,8 @@ Hiya! I'm Trenton, a 26-year-old Native-American Filmmaker and Photographer with
       - Ebsynth for Python.
   - [PyShiftAE](https://github.com/Trentonom0r3/PyShiftAE)
       - An After Effects Plugin exposing Python as a replacement for ExtendScript.
-  - [After-Diffusion](https://github.com/Trentonom0r3/After-Diffusion)
-      - Auto1111 Stable Diffusion in After Effects.
+  - [SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)
+      - Audio Isolation and Beat Detection for Premiere Pro.
         
 ### My Goals
 
