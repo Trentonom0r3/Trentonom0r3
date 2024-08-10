@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hiya! I'm Trenton, a 26-year-old Native-American Filmmaker and Photographer with a knack for programming. By trade, I delve into the realms of film and photography, and by education, I am a Mechanical Engineer.
+Hiya! I'm Trenton, a 27-year-old Native-American Filmmaker and Photographer with a knack for programming. By trade, I delve into the realms of film and photography, and by education, I am a Mechanical Engineer.
 
 ### What I'm Doing
 
