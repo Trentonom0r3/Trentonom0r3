@@ -25,6 +25,8 @@ Hiya! I'm Trenton, a 27-year-old Native-American Filmmaker and Photographer with
       - An After Effects Plugin exposing Python as a replacement for ExtendScript.
   - [SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)
       - Audio Isolation and Beat Detection for Premiere Pro.
+  - [FrameSmith](https://github.com/Trentonom0r3/FrameSmith)
+      - Interpolation and Upscaling powered by TensorRT, implemented in c++.
         
 ### My Goals
 
