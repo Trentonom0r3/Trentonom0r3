@@ -1,44 +1,31 @@
-# Hi there 👋
 
-<!-- 
-**Trentonom0r3/Trentonom0r3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hi there 👋
 
 ## About Me
 
-Hiya! I'm Trenton, a 27-year-old Native-American Filmmaker and Photographer with a knack for programming. By trade, I delve into the realms of film and photography, and by education, I am a Mechanical Engineer.
+Heya! I'm Trenton, a Native-American filmmaker, photographer, and mechanical engineer turned programmer. I have a passion for blending my artistic and technical skills to create innovative tools and workflows in video processing and media production.
 
 ### What I'm Doing
 
-- 🌟 **Programming Journey**: Began in April 2023, fueling a non-stop exploration into coding.
-- 🎨 **Creative Problem Solving**: Leveraging my artistic skills and engineering mindset to develop innovative workflows.
-- 📚 **Learning Curve**: Amateur in Python, JavaScript, and getting my hands dirty with C/C++.
-- 💡 **Art Meets Code**: Transforming creative visions into tangible projects through coding. Check out my projects
+- 🌟 **Programming Journey**: Began in April 2023 and have since dived deep into Python, C++, and CUDA. Most of my work revolves around real-time video processing, machine learning pipelines, and media tool development.
+- 🚀 **Technical Focus**: 
+  - Efficient video processing using FFmpeg, CUDA, and TensorRT.
+  - Real-time video interpolation, color conversion, and encoding optimization.
+  - Bridging creative software like Adobe After Effects with custom Python/C++ plugins.
+- 🛠️ **Project Highlights**:
+  - **[ffmpy](https://github.com/Trentonom0r3/fmpy)**: A Python and C++ library designed for high-speed video reading and writing, particularly for ML pipelines. It serves as a higher-level wrapper around FFmpeg, supporting direct decoding/encoding to/from numpy and torch tensors (both CPU and GPU).
+  - **[AETK](https://github.com/Trentonom0r3/AETK)**: A modern C++ library for Adobe After Effects SDK, aiming to extend After Effects functionality via Python scripting.
+  - **[Ezsynth](https://github.com/Trentonom0r3/Ezsynth)**: A Python library providing a wrapper around Ebsynth, with a custom implementation of the video stylization process.
+  - **[SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)**: Tools for audio isolation and beat detection tailored for Premiere Pro, focusing on seamless integration with existing workflows.
+  - **[FrameSmith](https://github.com/Trentonom0r3/FrameSmith)**: A powerful video interpolation and upscaling tool implemented in C++, leveraging TensorRT for real-time performance.
 
-  - [ffmpy](https://github.com/Trentonom0r3/fmpy)
-      - A (c++ and) python library designed for high speed video reading, particularly in ML pipelines.
-          - Serves as a higher level wrapper around `ffmpeg`, with direct decoding/encoding to/from numpy and torch Tensors (both cpu and gpu).
-  - [AETK](https://github.com/Trentonom0r3/AETK)
-      - A Modern C++ Library around the After Effects SDK.
-  - [ezsynth](https://github.com/Trentonom0r3/Ezsynth)
-      - Ebsynth for Python.
-  - [SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)
-      - Audio Isolation and Beat Detection for Premiere Pro.
-  - [FrameSmith](https://github.com/Trentonom0r3/FrameSmith)
-      - Interpolation and Upscaling powered by TensorRT, implemented in c++.
-        
 ### My Goals
 
-- 🚀 **Formal Training**: Eager to blend my existing skills with formal coding knowledge for a unique perspective in tech.
-- 🤝 **Collaborations**: Open to opportunities that blend technology, art, and community impact.
-
-### Find Me Elsewhere
-
-- 📸 [Instagram](https://www.instagram.com/blind.3ye/): Dive into my world of photography.
+- 🎯 **Skill Advancement**: Continue mastering CUDA, TensorRT, and high-performance computing for video processing.
+- 🤝 **Open Collaboration**: Always looking to work on projects that bridge the gap between art, technology, and community impact.
+- 📚 **Learning Path**: Further exploring formal training and advanced coding concepts to push the boundaries of my current projects.
 
 ### Let's Connect
 
-Feel free to reach out for collaborations or just a chat about tech, art, or anything in between!
-
-- 📫 **Email**: [spigonvids@gmail.com](mailto:spigonvids@gmail.com)
-
+- 📸 [Instagram](https://www.instagram.com/blind.3ye/): Explore my photography journey and creative projects.
+- 📫 **Email**: [spigonvids@gmail.com](mailto:spigonvids@gmail.com) – I'm open for collaborations, discussions, or just a chat about tech and art!
