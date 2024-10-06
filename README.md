@@ -14,15 +14,14 @@ Hiya! I'm Trenton, a 27-year-old Native-American Filmmaker and Photographer with
 - 🎨 **Creative Problem Solving**: Leveraging my artistic skills and engineering mindset to develop innovative workflows.
 - 📚 **Learning Curve**: Amateur in Python, JavaScript, and getting my hands dirty with C/C++.
 - 💡 **Art Meets Code**: Transforming creative visions into tangible projects through coding. Check out my projects
-- 
+
+  - [ffmpy](https://github.com/Trentonom0r3/fmpy)
+      - A (c++ and) python library designed for high speed video reading, particularly in ML pipelines.
+          - Serves as a higher level wrapper around `ffmpeg`, with direct decoding/encoding to/from numpy and torch Tensors (both cpu and gpu).
   - [AETK](https://github.com/Trentonom0r3/AETK)
       - A Modern C++ Library around the After Effects SDK.
-  - [AEvolution](https://github.com/Trentonom0r3/AEvolution)
-      - A brand new plugin for after effects providing a framework to write bindings to script in any language!
   - [ezsynth](https://github.com/Trentonom0r3/Ezsynth)
       - Ebsynth for Python.
-  - [PyShiftAE](https://github.com/Trentonom0r3/PyShiftAE)
-      - An After Effects Plugin exposing Python as a replacement for ExtendScript.
   - [SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)
       - Audio Isolation and Beat Detection for Premiere Pro.
   - [FrameSmith](https://github.com/Trentonom0r3/FrameSmith)
