@@ -13,7 +13,7 @@ Heya! I'm Trenton, a Native-American filmmaker, photographer, and mechanical eng
   - Real-time video interpolation, color conversion, and encoding optimization.
   - Bridging creative software like Adobe After Effects with custom Python/C++ plugins.
 - 🛠️ **Project Highlights**:
-  - **[celux](https://github.com/Trentonom0r3/celux)**: A Python and C++ library designed for high-speed video reading and writing, particularly for ML pipelines. It serves as a higher-level wrapper around FFmpeg, supporting direct decoding/encoding to/from numpy and torch tensors (both CPU and GPU).
+  - **[celux](https://github.com/Trentonom0r3/celux)**: High-performance video processing for Python, powered by FFmpeg and PyTorch. Ultra-fast video decoding directly to tensors with CPU and CUDA support.
   - **[AETK](https://github.com/Trentonom0r3/AETK)**: A modern C++ library for Adobe After Effects SDK, aiming to extend After Effects functionality via Python scripting.
   - **[Ezsynth](https://github.com/Trentonom0r3/Ezsynth)**: A Python library providing a wrapper around Ebsynth, with a custom implementation of the video stylization process.
   - **[SoundBuddy-Studio](https://github.com/Trentonom0r3/SoundBuddy-Studio)**: Tools for audio isolation and beat detection tailored for Premiere Pro, focusing on seamless integration with existing workflows.
